@@ -1,0 +1,50 @@
+body, html {
+	margin: 0; 
+	padding: 0; 
+}
+
+header {
+	width: 100%; 
+	height: 80px;
+	background-color: blanchedalmond;
+}
+
+h3 {
+	position: absolute; 
+	padding: 15px 30px;
+	float: left; 
+	margin-left: 2%; 
+	margin-top: 25px; 
+	font-family: 'Libre Franklin', sans-serif;
+	color: darkblue; 
+}
+
+span {
+	color: #ffffff; 
+}
+
+ul{ 
+	width: auto; 
+	float: right; 
+	margin-top: 8px;  
+}
+
+li {
+	display: inline-block; 
+	padding: 15px 30px; 
+	margin-top: 20px;
+	margin-right: 5px; 
+}	
+
+a {
+	text-align: center; 
+	color: rebeccapurple; 
+	text-decoration: none; 
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 1.5vw; 
+}
+
+a:hover {
+	color: rgba(62,99,209,0.94); 
+	transition: 0.5s; 
+}
