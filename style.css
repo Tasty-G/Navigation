@@ -16,7 +16,7 @@ h3 {
 	margin-left: 2%; 
 	margin-top: 25px; 
 	font-family: 'Libre Franklin', sans-serif;
-	color: darkblue; 
+	color: rgba(0,81,200,0.82);  
 }
 
 span {
@@ -33,7 +33,7 @@ ul{
 li {
 	display: inline-block; 
 	padding: 15px 25px; 
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-right: 10px; 
 }	
 
